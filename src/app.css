@@ -1,0 +1,67 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-cream: #FAF7F2;
+	--color-cream-dark: #F0EBE3;
+	--color-terracotta: #C4622D;
+	--color-terracotta-light: #D4854F;
+	--color-terracotta-dark: #A84E1F;
+	--color-forest: #2D6A4F;
+	--color-forest-light: #40916C;
+	--color-forest-dark: #1B4332;
+	--color-charcoal: #1A1A2E;
+	--color-charcoal-light: #2D2D44;
+	--font-sans: 'Plus Jakarta Sans', sans-serif;
+	--font-serif: 'DM Serif Display', serif;
+	--font-arabic: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: var(--font-sans);
+	background-color: var(--color-cream);
+	color: var(--color-charcoal);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+html[dir='rtl'] body {
+	font-family: var(--font-arabic);
+}
+
+html[dir='rtl'] .font-serif {
+	font-family: var(--font-arabic);
+	font-weight: 700;
+}
+
+.font-serif {
+	font-family: var(--font-serif);
+}
+
+.zellige-pattern {
+	background-image:
+		linear-gradient(30deg, var(--color-terracotta) 12%, transparent 12.5%, transparent 87%, var(--color-terracotta) 87.5%, var(--color-terracotta)),
+		linear-gradient(150deg, var(--color-terracotta) 12%, transparent 12.5%, transparent 87%, var(--color-terracotta) 87.5%, var(--color-terracotta)),
+		linear-gradient(30deg, var(--color-terracotta) 12%, transparent 12.5%, transparent 87%, var(--color-terracotta) 87.5%, var(--color-terracotta)),
+		linear-gradient(150deg, var(--color-terracotta) 12%, transparent 12.5%, transparent 87%, var(--color-terracotta) 87.5%, var(--color-terracotta)),
+		linear-gradient(60deg, var(--color-terracotta-light) 25%, transparent 25.5%, transparent 75%, var(--color-terracotta-light) 75%, var(--color-terracotta-light)),
+		linear-gradient(60deg, var(--color-terracotta-light) 25%, transparent 25.5%, transparent 75%, var(--color-terracotta-light) 75%, var(--color-terracotta-light));
+	background-size: 80px 140px;
+	background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+	opacity: 0.04;
+}
+
+@media print {
+	.no-print {
+		display: none !important;
+	}
+	body {
+		background: white;
+	}
+	.phase-card {
+		break-inside: avoid;
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"site": {
+		"title": "Bani Dari",
+		"subtitle": "بنيت داري",
+		"description": "Guide complet pour construire sa maison au Maroc",
+		"metaDescription": "Bani Dari — Le guide étape par étape pour acheter un terrain et construire sa maison au Maroc. Toutes les démarches administratives, légales et techniques."
+	},
+	"nav": {
+		"home": "Accueil",
+		"guide": "Le Guide",
+		"about": "À propos"
+	},
+	"home": {
+		"heroTitle": "Construisez votre maison au Maroc,",
+		"heroTitleHighlight": "étape par étape.",
+		"heroSubtitle": "Le guide complet et gratuit pour naviguer toutes les démarches administratives, légales et techniques — de l'achat du terrain à la remise des clés.",
+		"ctaStart": "Commencer le guide",
+		"ctaLearnMore": "En savoir plus",
+		"statsPhases": "phases",
+		"statsSteps": "étapes détaillées",
+		"statsDocuments": "documents référencés",
+		"featureTitle": "Tout ce dont vous avez besoin",
+		"feature1Title": "Checklist interactive",
+		"feature1Desc": "Suivez votre progression étape par étape avec un suivi sauvegardé localement.",
+		"feature2Title": "Bilingue FR/AR",
+		"feature2Desc": "Toutes les informations disponibles en français et en arabe.",
+		"feature3Title": "100% gratuit",
+		"feature3Desc": "Aucun compte requis, aucune donnée collectée. Vos données restent sur votre appareil."
+	},
+	"guide": {
+		"title": "Guide de Construction",
+		"subtitle": "Suivez chaque phase pour mener à bien votre projet de construction au Maroc.",
+		"overallProgress": "Progression globale",
+		"resetProgress": "Réinitialiser",
+		"resetConfirm": "Êtes-vous sûr de vouloir réinitialiser toute votre progression ?",
+		"documents": "Documents requis",
+		"duration": "Durée estimée",
+		"cost": "Coût estimé",
+		"tips": "Conseil pratique",
+		"links": "Liens utiles",
+		"optional": "Optionnel",
+		"stepsCount": "{count} étapes",
+		"completed": "terminée(s)",
+		"expandAll": "Tout déplier",
+		"collapseAll": "Tout replier"
+	},
+	"about": {
+		"title": "À propos de Bani Dari",
+		"intro": "Bani Dari (بنيت داري — \"J'ai construit ma maison\") est né d'un constat simple : construire au Maroc est un parcours semé d'embûches administratives, et il n'existait aucun guide complet et gratuit pour accompagner les familles dans ce processus.",
+		"whyTitle": "Pourquoi ce guide ?",
+		"whyContent": "Des milliers de Marocains, résidents ou MRE, se lancent chaque année dans la construction de leur maison. Beaucoup se retrouvent perdus face à la complexité des démarches : Conservation Foncière, Notaire, Commune, permis de construire, raccordements... Ce guide rassemble toutes ces étapes en un seul endroit.",
+		"howTitle": "Comment ça marche ?",
+		"howContent": "Bani Dari est un site statique, 100% gratuit, sans inscription ni collecte de données. Votre progression est sauvegardée localement sur votre appareil. Cochez les étapes au fur et à mesure de votre avancement.",
+		"disclaimerTitle": "Avertissement",
+		"disclaimerContent": "Ce guide est fourni à titre informatif uniquement. Les procédures peuvent varier selon les communes et évoluer dans le temps. Consultez toujours un professionnel (notaire, architecte, avocat) pour vos démarches spécifiques.",
+		"techTitle": "Aspects techniques",
+		"techContent": "Site construit avec SvelteKit, déployé sur Cloudflare Pages. Code source disponible librement."
+	},
+	"footer": {
+		"madeWith": "Fait avec",
+		"forMorocco": "pour le Maroc",
+		"disclaimer": "Guide informatif — consultez un professionnel pour vos démarches.",
+		"language": "العربية"
+	},
+	"common": {
+		"steps": "étapes",
+		"phase": "Phase",
+		"of": "sur",
+		"done": "Terminé",
+		"pending": "En attente",
+		"inProgress": "En cours",
+		"skipped": "Ignoré"
+	}
+}
