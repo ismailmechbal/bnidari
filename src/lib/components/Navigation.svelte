@@ -21,7 +21,7 @@
 	<div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3 sm:px-6">
 		<a href="/" class="flex items-center gap-2" onclick={closeMobile}>
 			<span class="font-serif text-xl font-bold text-terracotta">بنيت داري</span>
-			<span class="hidden text-xs font-medium text-charcoal/50 sm:block">Bani Dari</span>
+			<span class="hidden text-xs font-medium text-charcoal/50 sm:block">Bnit Dari</span>
 		</a>
 
 		<!-- Desktop nav -->

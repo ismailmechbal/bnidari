@@ -1,9 +1,9 @@
 {
 	"site": {
-		"title": "Bani Dari",
+		"title": "Bnit Dari",
 		"subtitle": "بنيت داري",
 		"description": "Guide complet pour construire sa maison au Maroc",
-		"metaDescription": "Bani Dari — Le guide étape par étape pour acheter un terrain et construire sa maison au Maroc. Toutes les démarches administratives, légales et techniques."
+		"metaDescription": "Bnit Dari — Le guide étape par étape pour acheter un terrain et construire sa maison au Maroc. Toutes les démarches administratives, légales et techniques."
 	},
 	"nav": {
 		"home": "Accueil",
@@ -45,12 +45,12 @@
 		"collapseAll": "Tout replier"
 	},
 	"about": {
-		"title": "À propos de Bani Dari",
-		"intro": "Bani Dari (بنيت داري — \"J'ai construit ma maison\") est né d'un constat simple : construire au Maroc est un parcours semé d'embûches administratives, et il n'existait aucun guide complet et gratuit pour accompagner les familles dans ce processus.",
+		"title": "À propos de Bnit Dari",
+		"intro": "Bnit Dari (بنيت داري — \"J'ai construit ma maison\") est né d'un constat simple : construire au Maroc est un parcours semé d'embûches administratives, et il n'existait aucun guide complet et gratuit pour accompagner les familles dans ce processus.",
 		"whyTitle": "Pourquoi ce guide ?",
 		"whyContent": "Des milliers de Marocains, résidents ou MRE, se lancent chaque année dans la construction de leur maison. Beaucoup se retrouvent perdus face à la complexité des démarches : Conservation Foncière, Notaire, Commune, permis de construire, raccordements... Ce guide rassemble toutes ces étapes en un seul endroit.",
 		"howTitle": "Comment ça marche ?",
-		"howContent": "Bani Dari est un site statique, 100% gratuit, sans inscription ni collecte de données. Votre progression est sauvegardée localement sur votre appareil. Cochez les étapes au fur et à mesure de votre avancement.",
+		"howContent": "Bnit Dari est un site statique, 100% gratuit, sans inscription ni collecte de données. Votre progression est sauvegardée localement sur votre appareil. Cochez les étapes au fur et à mesure de votre avancement.",
 		"disclaimerTitle": "Avertissement",
 		"disclaimerContent": "Ce guide est fourni à titre informatif uniquement. Les procédures peuvent varier selon les communes et évoluer dans le temps. Consultez toujours un professionnel (notaire, architecte, avocat) pour vos démarches spécifiques.",
 		"techTitle": "Aspects techniques",

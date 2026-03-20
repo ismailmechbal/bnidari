@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-	<title>{$_('guide.title')} — Bani Dari</title>
+	<title>{$_('guide.title')} — Bnit Dari</title>
 	<meta name="description" content={$_('site.metaDescription')} />
 </svelte:head>
 

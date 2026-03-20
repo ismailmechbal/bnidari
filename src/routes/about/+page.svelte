@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>{$_('about.title')} — Bani Dari</title>
+	<title>{$_('about.title')} — Bnit Dari</title>
 	<meta name="description" content={$_('site.metaDescription')} />
 </svelte:head>
 

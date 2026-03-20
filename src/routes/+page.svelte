@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>Bani Dari — {$_('site.description')}</title>
+	<title>Bnit Dari — {$_('site.description')}</title>
 	<meta name="description" content={$_('site.metaDescription')} />
 </svelte:head>
 
